@@ -1,0 +1,6 @@
+# Secret used by the FastAPI service to call OpenAI.
+#OPENAI_API_KEY=your_key
+
+# The brief requests this cost-conscious model; override only if needed.
+#OPENAI_MODEL=example
+#AI_SERVICE_PORT=example
