@@ -1,6 +1,6 @@
 # Apply-AI
 
-ApplyAI is a focused portfolio MVP for students preparing job applications. It
+Apply-AI is a focused portfolio MVP for students preparing job applications. It
 stores a candidate profile, parses a PDF resume, analyzes pasted job
 descriptions, calculates a rule-based match score, and prepares editable
 application materials.
