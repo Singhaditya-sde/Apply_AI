@@ -1,4 +1,4 @@
-# Apply-AI
+# Apply-AI-Project
 
 Apply-AI is a focused portfolio MVP for students preparing job applications. It
 stores a candidate profile, parses a PDF resume, analyzes pasted job
